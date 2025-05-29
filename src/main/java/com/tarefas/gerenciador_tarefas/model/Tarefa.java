@@ -13,7 +13,7 @@ public class Tarefa {
     private String descricao;
     private String status;
 
- 
+
     public Tarefa() {}
 
 
